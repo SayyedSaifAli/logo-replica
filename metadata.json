@@ -1,0 +1,5 @@
+{
+  "name": "Logo Replica & Resizer",
+  "description": "Batch resize and rename a new logo to match the dimensions and filenames of a set of existing reference images.",
+  "requestFramePermissions": []
+}
